@@ -23,7 +23,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": " drishtiag.github.io.",
+  "homepage": "https://drishtiag.github.io/toDo-app/",
   "browserslist": {
     "production": [
       ">0.2%",
